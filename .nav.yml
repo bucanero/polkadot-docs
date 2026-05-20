@@ -4,6 +4,7 @@ nav:
   - 'Parachains': parachains
   - 'Chain Interactions': chain-interactions
   - 'Node Infrastructure': node-infrastructure
+  - 'dApps': dapps
   - 'Technical Reference': reference
   - 'AI Resources': ai-resources.md
   - 'Support': get-support.md
